@@ -1,7 +1,7 @@
 ### Hi, I am Jia Yi! 👋
 
-🌱 Currently learning SQL and PowerBI/>
-✨ Currently studying Data Science and Analytics with a 2nd major in Economics/>
+🌱 Currently learning SQL and PowerBI<br/>
+✨ Currently studying Data Science and Analytics with a 2nd major in Economics<br/>
 
 <!--
 **j1ayiii/j1ayiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
