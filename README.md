@@ -1,6 +1,6 @@
 ### Hi, I am Jia Yi! 👋
 
-🌱 Currently learning SQL and PowerBI
+🌱 Currently learning SQL and PowerBI/
 ✨ Currently studying Data Science and Analytics with a 2nd major in Economics
 
 <!--
